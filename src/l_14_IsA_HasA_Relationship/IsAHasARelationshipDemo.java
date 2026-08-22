@@ -7,7 +7,6 @@ IS-A	Inheritance	 Dog IS-A Animal
 HAS-A	Association / composition / aggregation	Car HAS-A Engine
 
 */
-
 public class IsAHasARelationshipDemo {
 
     // Parent class
